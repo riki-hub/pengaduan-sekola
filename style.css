@@ -1,0 +1,49 @@
+body { 
+    font-family: Arial, sans-serif; 
+    background: #f4f6f9; 
+    padding: 20px; 
+} 
+h2 { 
+    color: #333; 
+} 
+form { 
+    background: #fff; 
+    padding: 15px; 
+    width: 350px; 
+    border-radius: 5px; 
+    box-shadow: 0 0 5px rgba(0,0,0,0.1); 
+} 
+input, textarea, select { 
+    width: 100%; 
+    padding: 8px; 
+    margin: 6px 0; 
+    box-sizing: border-box; 
+} 
+button { 
+    padding: 10px; 
+    background: #4CAF50; 
+    color: white; 
+    border: none; 
+    cursor: pointer; 
+} 
+button:hover { 
+    background: #45a049; 
+} 
+table { 
+width: 100%; 
+background: #fff; 
+border-collapse: collapse; 
+margin-top: 15px; 
+} 
+th, td { 
+padding: 10px; 
+border: 1px solid #ccc; 
+text-align: left; 
+} 
+a { 
+color: #0066cc; 
+text-decoration: none; 
+} 
+a:hover { 
+text-decoration: underline; 
+} 
